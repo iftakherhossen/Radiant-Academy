@@ -10,12 +10,12 @@
 - Mongoose
 - TailwindCSS
 - JavaScript
+- MongoDB
 
 ## Package used:
 
 - React-redux
 - Redux
-- TailwindCSS
 - Axios
 - DaisyUI
 - SweetAlert2
